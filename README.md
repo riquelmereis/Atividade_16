@@ -1,25 +1,29 @@
-# 🧠 Lógica de Programação - Lista de Exercícios 01
+# Lógica de Programação - Lista 1 (Algoritmos do Cotidiano) 🚶‍♂️🛠️
 
-## 📝 Introdução
-Este repositório contém a resolução da primeira lista de atividades da disciplina de **Lógica de Programação** do curso Técnico em Desenvolvimento de Sistemas. O objetivo principal desta unidade é desenvolver o pensamento analítico e a capacidade de decompor problemas cotidianos em passos lógicos e estruturados, fundamentais para a construção de qualquer software.
+Este repositório contém os primeiros passos no aprendizado de lógica de programação, desenvolvidos no curso **Técnico em Desenvolvimento de Sistemas** do SENAI "A. Jacob Lafer".
 
-## 🚀 Sobre a Atividade
-A atividade consistiu em mapear cinco processos do dia a dia, transformando ações rotineiras em algoritmos formais. Para cada cenário, foram desenvolvidas duas formas de representação:
-* **Fluxograma:** Representação visual gráfica para entender o fluxo de decisões e desvios (condicionais e repetições).
-* **Pseudocódigo:** Descrição textual estruturada seguindo uma lógica sequencial de execução.
+Nesta lista, o foco foi a decomposição de tarefas complexas do dia a dia em passos lógicos (algoritmos), utilizando **fluxogramas** e **pseudocódigo**.
 
-**Cenários abordados:**
-1. Planejamento para ir ao trabalho.
-2. Procedimento de troca de pneu de um veículo.
-3. Passo a passo para substituição de uma lâmpada.
-4. Lógica para utilização de transporte público (ônibus).
-5. Algoritmo de execução para preparo de um bolo simples.
+## 🧠 O que foi praticado
+* **Abstração:** Transformar ações reais em sequências lógicas.
+* **Sequenciação:** Ordem correta de execução para atingir um objetivo.
+* **Tomada de Decisão:** Identificar pontos de escolha nos processos.
 
-## 📂 Estrutura de Arquivos
-Os arquivos foram organizados de forma numerada para corresponder a cada exercício da lista, divididos entre os formatos de imagem (fluxo) e documento (pseudo):
+## 📂 Exercícios Resolvidos
 
-* `1_trabalho_fluxo.png` | `1_trabalho_pseudo.pdf` - Exercício 01
-* `2_pneu_fluxo.png`     | `2_pneu_pseudo.pdf`     - Exercício 02
-* `3_lampada_fluxo.png`  | `3_lampada_pseudo.pdf`  - Exercício 03
-* `4_onibus_fluxo.png`   | `4_onibus_pseudo.pdf`   - Exercício 04
-* `5_bolo_fluxo.png`     | `5_bolo_pseudo.pdf`     - Exercício 05
+Cada pasta ou conjunto de arquivos aborda uma situação específica:
+
+1.  **Ir ao trabalho**: Logística e deslocamento.
+2.  **Troca de pneu de carro**: Processo técnico e segurança.
+3.  **Troca de lâmpada**: Lógica de verificação e ação.
+4.  **Pegar um ônibus**: Planejamento e execução de trajeto.
+5.  **Preparar um bolo simples**: Algoritmo de receita (entradas, processamento e saída).
+
+## 🛠️ Formatos de Arquivo
+
+* `.png`: Representação visual através de **Fluxogramas**.
+* `.pdf`: Documentação dos algoritmos em **Pseudocódigo**.
+
+---
+"A lógica é o princípio da sabedoria, não o fim." 🖖
+Desenvolvido por [Riquelme Reis](https://github.com/riquelmereis)
